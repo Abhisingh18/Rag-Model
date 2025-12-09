@@ -38,6 +38,7 @@ class AnalysisService {
             totalParticipants: 0,
             themeDistribution: {},
             stateWiseCoverage: {},
+            themeStateMapping: {}, // NEW: Maps theme -> states with counts
             averageCompletionRate: "N/A",
             gapAnalysis: {
                 underservedStates: [],
@@ -62,11 +63,15 @@ class AnalysisService {
                 }
             }
 
+            // Get theme and state
+            let theme = null;
+            let state = null;
+
             // Theme distribution
             const themeFields = ['Theme', 'theme', 'Training Theme', 'Disaster Type'];
             for (const field of themeFields) {
                 if (row[field]) {
-                    const theme = row[field];
+                    theme = row[field];
                     analysis.themeDistribution[theme] = (analysis.themeDistribution[theme] || 0) + 1;
                     break;
                 }
@@ -76,10 +81,18 @@ class AnalysisService {
             const stateFields = ['State', 'state', 'Location'];
             for (const field of stateFields) {
                 if (row[field]) {
-                    const state = row[field];
+                    state = row[field];
                     analysis.stateWiseCoverage[state] = (analysis.stateWiseCoverage[state] || 0) + 1;
                     break;
                 }
+            }
+
+            // NEW: Map theme to states
+            if (theme && state) {
+                if (!analysis.themeStateMapping[theme]) {
+                    analysis.themeStateMapping[theme] = {};
+                }
+                analysis.themeStateMapping[theme][state] = (analysis.themeStateMapping[theme][state] || 0) + 1;
             }
 
             // Completion rate
