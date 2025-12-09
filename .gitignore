@@ -1,9 +1,40 @@
+# Dependencies
 node_modules/
+package-lock.json
+
+# Environment variables
 .env
-uploads/
-reports/
-*.log
-.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
 dist/
 build/
+*.log
+
+# IDE
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads & Reports
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/reports/*
+!backend/reports/.gitkeep
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.orig
+.cache/
