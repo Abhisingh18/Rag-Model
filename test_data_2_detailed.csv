@@ -1,0 +1,46 @@
+Training ID,Date,Location,State,District,Theme,Participants,Trainer,Organization,Duration,Completion Rate,Feedback Score,Session Type,Budget (INR),Target Audience,Language,Follow-up Required,Certification Provided
+TR201,2024-01-10,Delhi,Delhi,New Delhi,Earthquake Preparedness,200,Dr. Rajesh Kumar,NIDM,5 days,97%,4.8,Intensive Workshop,500000,Government Officials,Hindi & English,Yes,Yes
+TR202,2024-01-15,Mumbai,Maharashtra,Mumbai Suburban,Flood Management,180,Ms. Sneha Patel,SDMA Maharashtra,4 days,94%,4.6,Training of Trainers,450000,NGO Workers,Marathi & English,Yes,Yes
+TR203,2024-01-20,Kolkata,West Bengal,Kolkata,Cyclone Response,150,Mr. Amit Ghosh,NDRF,3 days,96%,4.7,Field Exercise,400000,Emergency Responders,Bengali & English,No,Yes
+TR204,2024-02-01,Chennai,Tamil Nadu,Chennai,Tsunami Early Warning,120,Dr. Lakshmi Iyer,ATI Chennai,4 days,98%,4.9,Technical Training,550000,Technical Staff,Tamil & English,Yes,Yes
+TR205,2024-02-10,Bangalore,Karnataka,Bangalore Urban,Urban Fire Safety,90,Mr. Karthik Reddy,Fire Services,2 days,89%,4.4,Awareness Campaign,200000,Building Managers,Kannada & English,No,No
+TR206,2024-02-18,Hyderabad,Telangana,Hyderabad,Industrial Hazard,110,Dr. Madhavi Rao,Industrial Safety Board,3 days,92%,4.5,Specialized Training,480000,Factory Workers,Telugu & English,Yes,Yes
+TR207,2024-02-25,Ahmedabad,Gujarat,Ahmedabad,Earthquake Retrofitting,85,Mr. Jayesh Shah,Geological Survey,4 days,95%,4.7,Technical Workshop,520000,Engineers,Gujarati & English,Yes,Yes
+TR208,2024-03-05,Pune,Maharashtra,Pune,Landslide Mitigation,75,Ms. Pooja Deshmukh,Geological Survey,3 days,91%,4.6,Field Training,380000,Local Authorities,Marathi & English,No,Yes
+TR209,2024-03-12,Jaipur,Rajasthan,Jaipur,Drought Management,160,Dr. Mahendra Singh,Agricultural Dept,5 days,93%,4.5,Capacity Building,450000,Farmers & Officials,Hindi,Yes,No
+TR210,2024-03-20,Lucknow,Uttar Pradesh,Lucknow,Flood Rescue Operations,140,Mr. Vikram Yadav,NDRF UP,4 days,96%,4.8,Practical Training,500000,Rescue Teams,Hindi,No,Yes
+TR211,2024-03-28,Bhopal,Madhya Pradesh,Bhopal,Chemical Emergency,95,Dr. Anjali Verma,Industrial Safety,3 days,88%,4.3,Specialized Training,420000,Industrial Workers,Hindi,Yes,Yes
+TR212,2024-04-05,Patna,Bihar,Patna,Flood Early Warning,170,Mr. Rajesh Singh,SDMA Bihar,5 days,94%,4.7,Community Training,380000,Village Leaders,Hindi,Yes,No
+TR213,2024-04-15,Chandigarh,Punjab,Chandigarh,Earthquake Safety,100,Ms. Harpreet Kaur,NIDM,3 days,92%,4.6,Workshop,350000,School Teachers,Punjabi & Hindi,No,Yes
+TR214,2024-04-22,Thiruvananthapuram,Kerala,Thiruvananthapuram,Monsoon Preparedness,130,Dr. Suresh Nair,SDMA Kerala,4 days,99%,4.9,Advanced Training,480000,District Officials,Malayalam & English,Yes,Yes
+TR215,2024-05-01,Guwahati,Assam,Kamrup Metropolitan,Flood & Erosion,115,Mr. Bikash Das,NDRF Assam,5 days,90%,4.5,Field Training,420000,Riverine Communities,Assamese & English,Yes,No
+TR216,2024-05-10,Ranchi,Jharkhand,Ranchi,Forest Fire Prevention,80,Ms. Priya Kumari,Forest Dept,3 days,87%,4.4,Awareness Program,280000,Forest Guards,Hindi,No,No
+TR217,2024-05-18,Shimla,Himachal Pradesh,Shimla,Snow Avalanche,60,Dr. Vikram Singh,Geological Survey,4 days,91%,4.6,Specialized Training,450000,Mountain Rescue,Hindi & English,Yes,Yes
+TR218,2024-05-25,Dehradun,Uttarakhand,Dehradun,Landslide Warning,95,Mr. Praveen Rawat,SDMA Uttarakhand,3 days,93%,4.7,Technical Workshop,400000,Engineers,Hindi,No,Yes
+TR219,2024-06-02,Srinagar,Jammu and Kashmir,Srinagar,Avalanche Rescue,70,Ms. Zainab Khan,NDRF J&K,4 days,89%,4.4,Practical Training,480000,Rescue Teams,Urdu & English,Yes,Yes
+TR220,2024-06-10,Bhubaneswar,Odisha,Khordha,Cyclone Shelter Management,185,Dr. Prasad Rao,SDMA Odisha,5 days,98%,4.9,Comprehensive Training,550000,Shelter Managers,Odia & English,Yes,Yes
+TR221,2024-06-18,Raipur,Chhattisgarh,Raipur,Drought Resilience,90,Mr. Ramesh Patel,Agricultural Dept,3 days,88%,4.3,Community Workshop,320000,Farmers,Hindi,No,No
+TR222,2024-06-25,Gandhinagar,Gujarat,Gandhinagar,Seismic Safety,105,Dr. Kiran Mehta,NIDM,4 days,94%,4.7,Technical Training,480000,Architects,Gujarati & English,Yes,Yes
+TR223,2024-07-05,Imphal,Manipur,Imphal West,Earthquake Preparedness,55,Ms. Chanu Devi,SDMA Manipur,3 days,86%,4.2,Basic Training,280000,Local Communities,Manipuri & English,No,No
+TR224,2024-07-12,Agartala,Tripura,West Tripura,Flood Response,75,Mr. Debashish Roy,NDRF Tripura,4 days,91%,4.5,Field Exercise,350000,Emergency Teams,Bengali & English,Yes,Yes
+TR225,2024-07-20,Kohima,Nagaland,Kohima,Landslide Awareness,50,Dr. Neiphiu Rio,Geological Survey,2 days,85%,4.1,Awareness Campaign,220000,Village Communities,English,No,No
+TR226,2024-07-28,Aizawl,Mizoram,Aizawl,Earthquake Safety,45,Ms. Lalrinsangi,SDMA Mizoram,3 days,83%,4.0,Basic Workshop,250000,Government Staff,Mizo & English,Yes,No
+TR227,2024-08-05,Shillong,Meghalaya,East Khasi Hills,Flood Management,85,Mr. Kong Syiem,NDRF Meghalaya,4 days,90%,4.5,Practical Training,380000,Rescue Personnel,Khasi & English,No,Yes
+TR228,2024-08-15,Itanagar,Arunachal Pradesh,Papum Pare,Landslide Mitigation,65,Dr. Taba Tedir,Geological Survey,3 days,88%,4.4,Technical Workshop,350000,Engineers,English,Yes,Yes
+TR229,2024-08-22,Gangtok,Sikkim,East Sikkim,Earthquake Response,70,Ms. Yangchen Lepcha,SDMA Sikkim,4 days,93%,4.7,Comprehensive Training,420000,District Teams,Nepali & English,Yes,Yes
+TR230,2024-08-30,Port Blair,Andaman and Nicobar,South Andaman,Tsunami Preparedness,80,Mr. Rajiv Kumar,NDRF A&N,5 days,96%,4.8,Island Safety Training,500000,Coastal Communities,English & Hindi,Yes,Yes
+TR231,2024-09-08,Panaji,Goa,North Goa,Monsoon Safety,75,Dr. Maria Fernandes,SDMA Goa,3 days,92%,4.6,Community Training,320000,Tourism Sector,Konkani & English,No,Yes
+TR232,2024-09-15,Varanasi,Uttar Pradesh,Varanasi,River Flood Management,125,Dr. Ram Prakash,NDRF UP,5 days,95%,4.8,Advanced Training,480000,Riverine Districts,Hindi,Yes,Yes
+TR233,2024-09-22,Indore,Madhya Pradesh,Indore,Urban Fire Safety,85,Ms. Rekha Jain,Fire Department,2 days,88%,4.4,Drill Exercise,280000,Commercial Buildings,Hindi,No,No
+TR234,2024-09-28,Nagpur,Maharashtra,Nagpur,Agricultural Drought,100,Mr. Sunil Deshmukh,Agricultural Dept,4 days,90%,4.5,Farmer Training,350000,Agricultural Communities,Marathi,Yes,No
+TR235,2024-10-05,Visakhapatnam,Andhra Pradesh,Visakhapatnam,Cyclone Preparedness,155,Dr. Venkat Rao,SDMA AP,5 days,97%,4.9,Comprehensive Workshop,550000,Coastal Districts,Telugu & English,Yes,Yes
+TR236,2024-10-12,Vijayawada,Andhra Pradesh,Krishna,Flood Control,135,Ms. Padma Lakshmi,NDRF AP,4 days,94%,4.7,Field Training,450000,River Communities,Telugu,No,Yes
+TR237,2024-10-20,Coimbatore,Tamil Nadu,Coimbatore,Industrial Safety,90,Mr. Murugan Raj,Fire Services,3 days,89%,4.4,Technical Training,380000,Factory Workers,Tamil,Yes,Yes
+TR238,2024-10-28,Madurai,Tamil Nadu,Madurai,Flood Response,110,Dr. Selvam Kumar,SDMA TN,4 days,93%,4.6,Capacity Building,420000,District Officials,Tamil,Yes,Yes
+TR239,2024-11-05,Mysore,Karnataka,Mysore,Earthquake Awareness,95,Ms. Kavitha Reddy,NIDM,3 days,91%,4.5,Public Awareness,320000,General Public,Kannada,No,No
+TR240,2024-11-12,Mangalore,Karnataka,Dakshina Kannada,Coastal Erosion,75,Mr. Suresh Shetty,Geological Survey,4 days,92%,4.6,Technical Workshop,400000,Coastal Engineers,Kannada & English,Yes,Yes
+TR241,2024-11-20,Kochi,Kerala,Ernakulam,Monsoon Flooding,140,Dr. Thomas Joseph,SDMA Kerala,5 days,98%,4.9,Advanced Training,520000,Urban Planners,Malayalam & English,Yes,Yes
+TR242,2024-11-28,Kozhikode,Kerala,Kozhikode,Landslide Prevention,85,Ms. Ayesha Beevi,NDRF Kerala,3 days,94%,4.7,Field Training,380000,Hill Communities,Malayalam,No,Yes
+TR243,2024-12-05,Jodhpur,Rajasthan,Jodhpur,Desert Drought,95,Mr. Mahendra Singh,Agricultural Dept,4 days,87%,4.3,Community Workshop,340000,Desert Communities,Hindi,Yes,No
+TR244,2024-12-10,Udaipur,Rajasthan,Udaipur,Water Conservation,80,Dr. Geeta Sharma,SDMA Rajasthan,3 days,90%,4.5,Awareness Program,300000,Rural Communities,Hindi,No,No
+TR245,2024-12-15,Amritsar,Punjab,Amritsar,Flood Preparedness,105,Mr. Gurpreet Singh,NDRF Punjab,4 days,93%,4.7,Comprehensive Training,420000,Border Districts,Punjabi,Yes,Yes

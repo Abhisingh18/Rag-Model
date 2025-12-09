@@ -1,0 +1,51 @@
+Training ID,Date,Location,State,District,Theme,Participants,Trainer,Organization,Duration,Completion Rate,Feedback Score,Session Type
+TR001,2024-01-15,Delhi,Delhi,Central Delhi,Earthquake,50,Dr. Rajesh Sharma,NIDM,2 days,95%,4.5,Workshop
+TR002,2024-01-20,Mumbai,Maharashtra,Mumbai City,Flood,75,Mr. Amit Patel,SDMA Maharashtra,3 days,88%,4.3,Training Camp
+TR003,2024-01-25,Kolkata,West Bengal,Kolkata,Cyclone,60,Ms. Priya Sen,NGO - Disaster Relief,2 days,92%,4.7,Awareness Program
+TR004,2024-02-01,Chennai,Tamil Nadu,Chennai,Flood,80,Dr. Kumar Swamy,ATI Chennai,4 days,90%,4.6,Capacity Building
+TR005,2024-02-05,Bangalore,Karnataka,Bangalore Urban,Fire Safety,45,Mr. Ravi Kumar,Fire Department,1 day,85%,4.2,Drill Exercise
+TR006,2024-02-10,Hyderabad,Telangana,Hyderabad,Earthquake,55,Dr. Lakshmi Reddy,SDMA Telangana,3 days,93%,4.8,Workshop
+TR007,2024-02-15,Ahmedabad,Gujarat,Ahmedabad,Earthquake,70,Mr. Vijay Shah,NDRF,2 days,89%,4.4,Training Camp
+TR008,2024-02-20,Pune,Maharashtra,Pune,Landslide,40,Ms. Sneha Desai,Geological Survey,2 days,91%,4.5,Awareness Program
+TR009,2024-02-25,Jaipur,Rajasthan,Jaipur,Drought,65,Dr. Anil Sharma,Agricultural Dept,3 days,87%,4.3,Capacity Building
+TR010,2024-03-01,Lucknow,Uttar Pradesh,Lucknow,Flood,90,Mr. Suresh Yadav,SDMA UP,4 days,94%,4.7,Workshop
+TR011,2024-03-05,Bhopal,Madhya Pradesh,Bhopal,Industrial Disaster,50,Dr. Meena Verma,Industrial Safety,2 days,88%,4.4,Training Camp
+TR012,2024-03-10,Patna,Bihar,Patna,Flood,100,Mr. Rajesh Singh,NDRF Bihar,5 days,92%,4.6,Capacity Building
+TR013,2024-03-15,Chandigarh,Punjab,Chandigarh,Earthquake,55,Ms. Harpreet Kaur,NIDM,2 days,90%,4.5,Workshop
+TR014,2024-03-20,Thiruvananthapuram,Kerala,Thiruvananthapuram,Flood,85,Dr. Suresh Nair,SDMA Kerala,3 days,95%,4.9,Training Camp
+TR015,2024-03-25,Guwahati,Assam,Kamrup Metropolitan,Flood,70,Mr. Bikash Das,NDRF Assam,4 days,89%,4.3,Awareness Program
+TR016,2024-04-01,Ranchi,Jharkhand,Ranchi,Forest Fire,45,Ms. Anita Kumari,Forest Department,2 days,86%,4.2,Drill Exercise
+TR017,2024-04-05,Shimla,Himachal Pradesh,Shimla,Landslide,35,Dr. Vikram Singh,Geological Survey,2 days,91%,4.6,Workshop
+TR018,2024-04-10,Dehradun,Uttarakhand,Dehradun,Earthquake,60,Mr. Praveen Rawat,SDMA Uttarakhand,3 days,93%,4.7,Training Camp
+TR019,2024-04-15,Srinagar,Jammu and Kashmir,Srinagar,Avalanche,40,Ms. Zainab Khan,NDRF J&K,2 days,88%,4.4,Awareness Program
+TR020,2024-04-20,Bhubaneswar,Odisha,Khordha,Cyclone,95,Dr. Prasad Rao,SDMA Odisha,4 days,96%,4.8,Capacity Building
+TR021,2024-04-25,Raipur,Chhattisgarh,Raipur,Drought,50,Mr. Ramesh Patel,Agricultural Dept,2 days,87%,4.3,Workshop
+TR022,2024-05-01,Gandhinagar,Gujarat,Gandhinagar,Industrial Disaster,55,Dr. Kiran Mehta,Industrial Safety,3 days,90%,4.5,Training Camp
+TR023,2024-05-05,Imphal,Manipur,Imphal West,Earthquake,30,Ms. Chanu Devi,SDMA Manipur,2 days,85%,4.2,Awareness Program
+TR024,2024-05-10,Agartala,Tripura,West Tripura,Flood,45,Mr. Debashish Roy,NDRF Tripura,3 days,89%,4.4,Capacity Building
+TR025,2024-05-15,Kohima,Nagaland,Kohima,Landslide,25,Dr. Neiphiu Rio,Geological Survey,2 days,84%,4.1,Workshop
+TR026,2024-05-20,Aizawl,Mizoram,Aizawl,Earthquake,20,Ms. Lalrinsangi,SDMA Mizoram,2 days,82%,4.0,Training Camp
+TR027,2024-05-25,Shillong,Meghalaya,East Khasi Hills,Flood,40,Mr. Kong Syiem,NDRF Meghalaya,3 days,88%,4.3,Awareness Program
+TR028,2024-06-01,Itanagar,Arunachal Pradesh,Papum Pare,Landslide,30,Dr. Taba Tedir,Geological Survey,2 days,86%,4.2,Capacity Building
+TR029,2024-06-05,Gangtok,Sikkim,East Sikkim,Earthquake,35,Ms. Yangchen Lepcha,SDMA Sikkim,3 days,91%,4.6,Workshop
+TR030,2024-06-10,Port Blair,Andaman and Nicobar,South Andaman,Tsunami,50,Mr. Rajiv Kumar,NDRF A&N,4 days,93%,4.7,Training Camp
+TR031,2024-06-15,Panaji,Goa,North Goa,Flood,40,Dr. Maria Fernandes,SDMA Goa,2 days,89%,4.4,Awareness Program
+TR032,2024-06-20,Daman,Daman and Diu,Daman,Cyclone,25,Mr. Patel Ramesh,NDRF Daman,2 days,87%,4.3,Drill Exercise
+TR033,2024-06-25,Puducherry,Puducherry,Puducherry,Flood,55,Ms. Lakshmi Iyer,SDMA Puducherry,3 days,92%,4.6,Capacity Building
+TR034,2024-07-01,Leh,Ladakh,Leh,Avalanche,30,Dr. Tsering Dorje,NDRF Ladakh,2 days,88%,4.4,Workshop
+TR035,2024-07-05,Jammu,Jammu and Kashmir,Jammu,Earthquake,65,Mr. Ashok Sharma,SDMA J&K,3 days,90%,4.5,Training Camp
+TR036,2024-07-10,Varanasi,Uttar Pradesh,Varanasi,Flood,75,Dr. Ram Prakash,NDRF UP,4 days,94%,4.7,Awareness Program
+TR037,2024-07-15,Indore,Madhya Pradesh,Indore,Fire Safety,50,Ms. Rekha Jain,Fire Department,2 days,86%,4.2,Drill Exercise
+TR038,2024-07-20,Nagpur,Maharashtra,Nagpur,Drought,60,Mr. Sunil Deshmukh,Agricultural Dept,3 days,88%,4.3,Capacity Building
+TR039,2024-07-25,Visakhapatnam,Andhra Pradesh,Visakhapatnam,Cyclone,80,Dr. Venkat Rao,SDMA AP,4 days,95%,4.8,Workshop
+TR040,2024-08-01,Vijayawada,Andhra Pradesh,Krishna,Flood,70,Ms. Padma Lakshmi,NDRF AP,3 days,91%,4.6,Training Camp
+TR041,2024-08-05,Coimbatore,Tamil Nadu,Coimbatore,Fire Safety,45,Mr. Murugan Raj,Fire Department,2 days,87%,4.3,Awareness Program
+TR042,2024-08-10,Madurai,Tamil Nadu,Madurai,Flood,65,Dr. Selvam Kumar,SDMA TN,3 days,92%,4.7,Capacity Building
+TR043,2024-08-15,Mysore,Karnataka,Mysore,Earthquake,55,Ms. Kavitha Reddy,NIDM,2 days,89%,4.4,Workshop
+TR044,2024-08-20,Mangalore,Karnataka,Dakshina Kannada,Landslide,40,Mr. Suresh Shetty,Geological Survey,2 days,90%,4.5,Training Camp
+TR045,2024-08-25,Kochi,Kerala,Ernakulam,Flood,90,Dr. Thomas Joseph,SDMA Kerala,4 days,96%,4.9,Awareness Program
+TR046,2024-09-01,Kozhikode,Kerala,Kozhikode,Landslide,50,Ms. Ayesha Beevi,NDRF Kerala,3 days,93%,4.7,Capacity Building
+TR047,2024-09-05,Jodhpur,Rajasthan,Jodhpur,Drought,55,Mr. Mahendra Singh,Agricultural Dept,2 days,85%,4.2,Workshop
+TR048,2024-09-10,Udaipur,Rajasthan,Udaipur,Earthquake,45,Dr. Geeta Sharma,SDMA Rajasthan,3 days,88%,4.4,Training Camp
+TR049,2024-09-15,Amritsar,Punjab,Amritsar,Flood,60,Mr. Gurpreet Singh,NDRF Punjab,3 days,91%,4.6,Awareness Program
+TR050,2024-09-20,Ludhiana,Punjab,Ludhiana,Industrial Disaster,50,Ms. Simran Kaur,Industrial Safety,2 days,89%,4.5,Drill Exercise

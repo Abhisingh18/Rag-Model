@@ -1,0 +1,36 @@
+Training ID,Date,Location,State,District,Theme,Participants,Trainer,Organization,Duration,Completion Rate,Feedback Score,Session Type
+TR101,2024-10-01,New Delhi,Delhi,Central Delhi,Earthquake,120,Dr. Arun Sharma,NIDM,3 days,98%,4.8,Capacity Building
+TR102,2024-10-03,Mumbai,Maharashtra,Mumbai City,Flood,150,Ms. Priya Desai,SDMA Maharashtra,4 days,95%,4.7,Training Camp
+TR103,2024-10-05,Kolkata,West Bengal,Kolkata,Cyclone,85,Mr. Rajesh Kumar,NGO - Disaster Relief,2 days,92%,4.6,Awareness Program
+TR104,2024-10-07,Chennai,Tamil Nadu,Chennai,Tsunami,100,Dr. Venkat Rao,ATI Chennai,3 days,96%,4.9,Workshop
+TR105,2024-10-09,Bangalore,Karnataka,Bangalore Urban,Fire Safety,65,Mr. Suresh Reddy,Fire Department,1 day,88%,4.3,Drill Exercise
+TR106,2024-10-11,Hyderabad,Telangana,Hyderabad,Earthquake,90,Dr. Lakshmi Devi,SDMA Telangana,2 days,94%,4.7,Training Camp
+TR107,2024-10-13,Ahmedabad,Gujarat,Ahmedabad,Industrial Disaster,75,Mr. Vijay Patel,Industrial Safety,3 days,91%,4.5,Capacity Building
+TR108,2024-10-15,Pune,Maharashtra,Pune,Landslide,55,Ms. Anjali Shah,Geological Survey,2 days,89%,4.4,Workshop
+TR109,2024-10-17,Jaipur,Rajasthan,Jaipur,Drought,80,Dr. Mahendra Singh,Agricultural Dept,3 days,90%,4.6,Awareness Program
+TR110,2024-10-19,Lucknow,Uttar Pradesh,Lucknow,Flood,110,Mr. Ramesh Yadav,SDMA UP,4 days,97%,4.8,Training Camp
+TR111,2024-10-21,Bhopal,Madhya Pradesh,Bhopal,Chemical Disaster,60,Dr. Kavita Verma,Industrial Safety,2 days,87%,4.2,Workshop
+TR112,2024-10-23,Patna,Bihar,Patna,Flood,130,Mr. Anil Kumar,NDRF Bihar,5 days,95%,4.7,Capacity Building
+TR113,2024-10-25,Chandigarh,Punjab,Chandigarh,Earthquake,70,Ms. Simran Kaur,NIDM,2 days,93%,4.6,Training Camp
+TR114,2024-10-27,Thiruvananthapuram,Kerala,Thiruvananthapuram,Flood,95,Dr. Thomas Joseph,SDMA Kerala,3 days,98%,4.9,Awareness Program
+TR115,2024-10-29,Guwahati,Assam,Kamrup Metropolitan,Flood,85,Mr. Bikash Das,NDRF Assam,4 days,91%,4.5,Workshop
+TR116,2024-11-01,Ranchi,Jharkhand,Ranchi,Forest Fire,50,Ms. Priya Kumari,Forest Department,2 days,86%,4.3,Drill Exercise
+TR117,2024-11-03,Shimla,Himachal Pradesh,Shimla,Avalanche,40,Dr. Vikram Singh,Geological Survey,2 days,90%,4.5,Training Camp
+TR118,2024-11-05,Dehradun,Uttarakhand,Dehradun,Landslide,65,Mr. Praveen Rawat,SDMA Uttarakhand,3 days,94%,4.7,Capacity Building
+TR119,2024-11-07,Srinagar,Jammu and Kashmir,Srinagar,Avalanche,45,Ms. Zainab Khan,NDRF J&K,2 days,89%,4.4,Workshop
+TR120,2024-11-09,Bhubaneswar,Odisha,Khordha,Cyclone,140,Dr. Prasad Rao,SDMA Odisha,4 days,99%,4.9,Training Camp
+TR121,2024-11-11,Raipur,Chhattisgarh,Raipur,Drought,60,Mr. Ramesh Patel,Agricultural Dept,2 days,88%,4.3,Awareness Program
+TR122,2024-11-13,Gandhinagar,Gujarat,Gandhinagar,Earthquake,80,Dr. Kiran Mehta,NIDM,3 days,92%,4.6,Capacity Building
+TR123,2024-11-15,Imphal,Manipur,Imphal West,Earthquake,35,Ms. Chanu Devi,SDMA Manipur,2 days,85%,4.2,Workshop
+TR124,2024-11-17,Agartala,Tripura,West Tripura,Flood,50,Mr. Debashish Roy,NDRF Tripura,3 days,90%,4.5,Training Camp
+TR125,2024-11-19,Kohima,Nagaland,Kohima,Landslide,30,Dr. Neiphiu Rio,Geological Survey,2 days,84%,4.1,Awareness Program
+TR126,2024-11-21,Aizawl,Mizoram,Aizawl,Earthquake,25,Ms. Lalrinsangi,SDMA Mizoram,2 days,82%,4.0,Workshop
+TR127,2024-11-23,Shillong,Meghalaya,East Khasi Hills,Flood,45,Mr. Kong Syiem,NDRF Meghalaya,3 days,89%,4.4,Training Camp
+TR128,2024-11-25,Itanagar,Arunachal Pradesh,Papum Pare,Landslide,35,Dr. Taba Tedir,Geological Survey,2 days,87%,4.3,Capacity Building
+TR129,2024-11-27,Gangtok,Sikkim,East Sikkim,Earthquake,40,Ms. Yangchen Lepcha,SDMA Sikkim,3 days,92%,4.6,Workshop
+TR130,2024-11-29,Port Blair,Andaman and Nicobar,South Andaman,Tsunami,55,Mr. Rajiv Kumar,NDRF A&N,4 days,95%,4.8,Training Camp
+TR131,2024-12-01,Panaji,Goa,North Goa,Flood,50,Dr. Maria Fernandes,SDMA Goa,2 days,91%,4.5,Awareness Program
+TR132,2024-12-03,Varanasi,Uttar Pradesh,Varanasi,Flood,90,Dr. Ram Prakash,NDRF UP,4 days,96%,4.8,Capacity Building
+TR133,2024-12-05,Indore,Madhya Pradesh,Indore,Fire Safety,55,Ms. Rekha Jain,Fire Department,2 days,87%,4.3,Drill Exercise
+TR134,2024-12-07,Nagpur,Maharashtra,Nagpur,Drought,70,Mr. Sunil Deshmukh,Agricultural Dept,3 days,89%,4.4,Workshop
+TR135,2024-12-09,Visakhapatnam,Andhra Pradesh,Visakhapatnam,Cyclone,105,Dr. Venkat Rao,SDMA AP,4 days,97%,4.9,Training Camp
